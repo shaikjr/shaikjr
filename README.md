@@ -1,8 +1,11 @@
-[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](http://zaap.bio/shaikdesign)
-<h1 align="center">Hi 👋, I'm shaik mahaboob</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding"width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikjr&label=Profile%20views&color=0e75b6&style=flat" alt="shaikjr" /> </p>
+<img align="right" alt="img" src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-2701fc99-4725-4dfb-8f11-871e4d342a6d-v1.png?transparent=1&palette=1" width="30%" height="auto" />
+
+### My name is Shaik Mahaboob!
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bhatiama)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayurhbhatia/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bhatia.ma@northeastern.edu)
+[![Website](https://img.shields.io/badge/-Portfolio-00c7b7?style=flat&logo=Netlify&logoColor=white)](https://mayurhbhatia.netlify.app/)
 
 <p align="left"> <a href="https://twitter.com/@shaikma74006895" target="blank"><img src="https://img.shields.io/twitter/follow/@shaikma74006895?logo=twitter&style=for-the-badge" alt="@shaikma74006895" /></a> </p>
 
