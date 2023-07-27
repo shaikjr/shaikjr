@@ -2,10 +2,9 @@
 
 ### My name is Shaik Mahaboob!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bhatiama)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayurhbhatia/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bhatia.ma@northeastern.edu)
-[![Website](https://img.shields.io/badge/-Portfolio-00c7b7?style=flat&logo=Netlify&logoColor=white)](https://mayurhbhatia.netlify.app/)
+[![Github](https://github.com/shaikjr)
+[![Linkedin](https://www.linkedin.com/in/shaik-mahaboob-266816253)
+[![Website](http://zaap.bio/shaikdesign)
 
 <p align="left"> <a href="https://twitter.com/@shaikma74006895" target="blank"><img src="https://img.shields.io/twitter/follow/@shaikma74006895?logo=twitter&style=for-the-badge" alt="@shaikma74006895" /></a> </p>
 
